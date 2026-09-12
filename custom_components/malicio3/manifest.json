@@ -1,0 +1,11 @@
+{
+    "domain": "malicio3",
+    "name": "Malicio 3 (Cozytouch fork)",
+    "codeowners": ["@gduteil"],
+    "config_flow": true,
+    "documentation": "https://github.com/gduteil/cozytouch",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/gduteil/cozytouch/issues",
+    "requirements": [],
+    "version": "1.4.0"
+}
